@@ -1,0 +1,29 @@
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\bin\Hostx86\x86
+   options:
+
+      /ALL
+      /ARCHIVEMEMBERS
+      /CLRHEADER
+      /DEPENDENTS
+      /DIRECTIVES
+      /DISASM[:{BYTES|NOBYTES}]
+      /ERRORREPORT:{NONE|PROMPT|QUEUE|SEND}
+      /EXPORTS
+      /FPO
+      /HEADERS
+      /IMPORTS[:filename]
+      /LINENUMBERS
+      /LINKERMEMBER[:{1|2}]
+      /LOADCONFIG
+      /NOLOGO
+      /OUT:filename
+      /PDATA
+      /PDBPATH[:VERBOSE]
+      /RANGE:vaMin[,vaMax]
+      /RAWDATA[:{NONE|1|2|4|8}[,#]]
+      /RELOCATIONS
+      /SECTION:name
+      /SUMMARY
+      /SYMBOLS
+      /TLS
+      /UNWINDINFO
